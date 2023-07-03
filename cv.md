@@ -14,11 +14,10 @@ ___
 * Im 18 years old student who wants to learn a programming. This my first experience in learning programming.
 
 ### **Skills**
-* HTML
-* CSS
-* JS (Basic)
+* HTML(Basic)
+* CSS(Basic)
 * Git
-* Photoshop
+* Photoshop(Basic) 
 
 ### **Code example**
 ```
