@@ -7,7 +7,7 @@ ___
 >
 * **Location:** Prague, Czech Republic  
 * **Email:** maxsvitlyk@gmail.com
-* **Tel:**  +420774900288 
+* **Tel:**  +420 774 900 288 
 * **Git Hud:** [Click](https://github.com/MaxSvitlyk)
   
 ### **About me**
