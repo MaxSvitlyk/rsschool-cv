@@ -27,7 +27,7 @@ def Hi_i'm Max():
 ```
 
 ### **Experience**
-__
+I have no practice
 
 ### **Education**
 * School
